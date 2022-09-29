@@ -1,5 +1,7 @@
 # Langkah -lankah Marking Map
 
+https://github.com/RaniLatifahCahyani/SIG_TEORI/blob/main/LAYOUT%20PADANG.png
+
  Langkah –langkah buat MarkingMap
 1.	Kita  download terlebih dahulu Natural Earth quick start
 2.	Kemudian klik properties -> variable dan cari project_languenge (nama_en) Kemudian kita refresh
